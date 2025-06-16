@@ -4,3 +4,6 @@
 
 ### Lab 1
 - [Lab 1 Outline](./resources/Lab_1_Outline.pdf)
+
+### Presentations
+- [Presentations](./presentations.md)
