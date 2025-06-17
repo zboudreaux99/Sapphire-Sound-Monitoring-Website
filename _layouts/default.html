@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <section id="downloads">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+          {% endif %}
+        </section>
+
+         <nav class="main-nav">
+          <ul>
+            {% assign current_url = page.url | relative_url %}
+            <li>
+              <a href="{{ '/' | relative_url }}"
+                 class="{% if current_url == '/' %}active{% endif %}">
+                 Home
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/presentations/' | relative_url }}"
+                 class="{% if current_url == '/presentations/' %}active{% endif %}">
+                 Presentations
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/team/' | relative_url }}"
+                 class="{% if current_url contains '/team/' %}active{% endif %}">
+                 Team
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/resources/' | relative_url }}"
+                 class="{% if current_url contains '/resources/' %}active{% endif %}">
+                 Resources
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/references/' | relative_url }}"
+                 class="{% if current_url contains '/references/' %}active{% endif %}">
+                 References
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>

@@ -1,3 +1,6 @@
-_site
+docker-compose.yml
 Gemfile
 Gemfile.lock
+Sapphire-Sound-Monitoring-App.code-workspace
+.vscode
+_site
