@@ -66,3 +66,40 @@
   }
 }
 
+.team-flex-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.team-flex-card {
+  display: flex;
+  align-items: center; /* <-- center image vertically */
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid #c7f26c;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-title {
+  font-size: 22px;
+  color: #c7f26c;
+  text-align: center;
+}
+
+
+.team-flex-card img {
+  width: 250px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10%;
+}
+
+.team-flex-bio {
+  padding: 1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
