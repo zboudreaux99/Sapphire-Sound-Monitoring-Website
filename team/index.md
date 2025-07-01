@@ -33,10 +33,6 @@ Welcome to our team bios page, we're a group of passionate developers, designers
         <div class="team-flex-bio">
             <p class="card-title">Zach Boudreaux - <i>DevOps Engineer & Automation Enthusiast</i></p>
             <p>Zach is a senior majoring in Computer Science with a strong interest in streamlining and improving workflows. He currently works as a DevOps Engineer at Leidos, where he focuses on automating repetitive and time-consuming processes. His passion lies in building systems that make life easier for users and teams alike. Outside of work and school, Zach enjoys spending time outdoors with his dogs and family. He also has a love for travel and photography, always looking for new places to explore and capture through his lens.</p>
-            <!-- <p>
-                <strong>GitHub:</strong> <a href="https://github.com/zboudreaux99">@zboudreaux99</a><br>
-                <strong>Email:</strong> <a href="mailto:zboud002@odu.edu">zboud002@odu.edu</a>
-            </p> -->
         </div>
     </div>
     
