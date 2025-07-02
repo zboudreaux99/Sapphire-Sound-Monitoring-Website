@@ -33,3 +33,4 @@ Tenants may feel the system is unfair and intrusive, or they may distrust Sapphi
 
 ---
 ## Solution Statement
+Sapphire Sound Monitor is a mobile and web application that connections to a small noise sensor. The sensor tracks how loud sounds are but doesn't record audio. If noise levels remain too high for too long, Sapphire Sound Monitor generates a report with the time and noise level. These reports help property managers resolve complaints fairly. Tenants can view their own noise history, receive alerts when they're too loud, and earn rewards for maintaining quiet. Sapphire Sound Monitor promotes peaceful shared living by providing clear, unbiased data instead of relying on personal opinions.
