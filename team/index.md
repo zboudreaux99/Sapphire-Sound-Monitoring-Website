@@ -1,3 +1,7 @@
+---
+title: Meet the Team
+---
+
 # Meet the Team
 Welcome to our team bios page, we're a group of passionate developers, designers, and innovators!
 

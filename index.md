@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Elevator Pitch
 ### Problem
 Noise complaints are a common issue in shared buildings. These complaints can often lead to disputes, unfair accusations, and unresolved tension between tenants
