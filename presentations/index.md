@@ -22,14 +22,15 @@ title: Presentations
     <ul id="nav-list">
         <li id="feasibility" class="presentation-selector">Feasability</li>
         <li id="design" class="presentation-selector">Design</li>
+        <li id="prototype" class="presentation-selector">Prototype Design</li>
     </ul>
     </div>
     <div id="main">
         <div id="feasibility-div" class="presentation-container">
-        <div id="feasibility-title" class="presentation-title">
-            <h2>Feasibility Presentation</h2>
-            <button class="btn" onclick="window.open('../resources/FeasibilityPresentation.pdf', '_blank')">
-            <i class="fas fa-file-pdf"></i> Download PDF</button>
+            <div id="feasibility-title" class="presentation-title">
+                <h2>Feasibility Presentation</h2>
+                <button class="btn" onclick="window.open('../resources/FeasibilityPresentation.pdf', '_blank')">
+                <i class="fas fa-file-pdf"></i> Download PDF</button>
             </div>
             <div>
                 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJ_GKB92-LARDcygETfulac7tKayQNH6Xlz4C2rLquSOSwEsYniI4ValxkE2AgldgZvNQejXPCK_Fl/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -37,11 +38,25 @@ title: Presentations
         </div>
 
         <div id="design-div" class="presentation-container">
-            <h2>Design Presentation</h2>
+            <div id="design-title" class="presentation-title">
+                <h2>Design Presentation</h2>
+                <button class="btn" onclick="window.open('../resources/DesignPresentation.pdf', '_blank')">
+                <i class="fas fa-file-pdf"></i> Download PDF</button>
+            </div>
             <div>
                 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHf2AkFWgbLi2ZpRqXf1apPY6Gb17mPtINmAO5MlbG2HJyhIPWzdPm82CZPcV53sE2ltGcZKIC8m-l/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </div>
         </div>
+        
+        <div id="prototype-div" class="presentation-container">
+            <div id="prototype-title" class="presentation-title">
+                <h2>Prototype Design Presentation</h2>
+            </div>
+            <div>
+                <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPFJG1purPRP8E0PcTkWviFMR_Hi7O_DRMXCknh7FQkEb9e0juVv_OojmwEpQuPCdz-K_KDs87W6vD/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            </div>
+        </div>
+
     </div>
 </div>
 
