@@ -51,6 +51,8 @@ title: Presentations
         <div id="prototype-div" class="presentation-container">
             <div id="prototype-title" class="presentation-title">
                 <h2>Prototype Design Presentation</h2>
+                <button class="btn" onclick="window.open('../resources/PrototypePresentation.pdf', '_blank')">
+                <i class="fas fa-file-pdf"></i> Download PDF</button>
             </div>
             <div>
                 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPFJG1purPRP8E0PcTkWviFMR_Hi7O_DRMXCknh7FQkEb9e0juVv_OojmwEpQuPCdz-K_KDs87W6vD/pubembed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
