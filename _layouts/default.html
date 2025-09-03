@@ -42,6 +42,12 @@
                  Presentations
               </a>
             </li>
+	          <li>
+              <a href="{{ '/labs/' | relative_url }}"
+                 class="{% if current_url == '/labs/' %}active{% endif %}">
+                 Labs
+              </a>
+            </li>
             <li>
               <a href="{{ '/team/' | relative_url }}"
                  class="{% if current_url contains '/team/' %}active{% endif %}">
