@@ -128,7 +128,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-ZachBoudreaux.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-ZachBoudreaux.pdf" width="100%" height="100%"></iframe>
+        <iframe src="../resources/Lab1-ZachBoudreaux.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
   </div>
