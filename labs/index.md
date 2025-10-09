@@ -62,6 +62,7 @@ title: Labs
       <li class="lab-selector" id="lab1-yahya">Lab 1 - Yahya</li>
       <li class="lab-selector" id="lab1-zack">Lab 1 - Zack Hendrickson</li>
       <li class="lab-selector" id="lab1-zach">Lab 1 – Zach Boudreaux</li>
+      <li class="lab-selector" id="lab1-brian">Lab 1 – Brian</li>
     </ul>
   </div>
 
@@ -129,6 +130,17 @@ title: Labs
       </div>
       <div>
         <iframe src="../resources/Lab1-ZachBoudreaux.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <!-- Lab 1 - Brian -->
+    <div class="lab-container" id="lab1-brian-container">
+      <div class="lab-title">
+        <h2>Lab 1 – Brian</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-Brian.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab1-Brian.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
   </div>
