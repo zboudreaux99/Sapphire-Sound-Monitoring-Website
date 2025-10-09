@@ -73,7 +73,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-Christiney.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-Christiney.pdf" width="100%" height="600px"></iframe>
+        <iframe src="../resources/Lab1-Christiney.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -84,7 +84,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-Shawn.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-Shawn.pdf" width="100%" height="600px"></iframe>
+        <iframe src="../resources/Lab1-Shawn.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -95,7 +95,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-Wes.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-Wes.pdf" width="100%" height="600px"></iframe>
+        <iframe src="../resources/Lab1-Wes.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -106,7 +106,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-Yahya.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-Yahya.pdf" width="100%" height="600px"></iframe>
+        <iframe src="../resources/Lab1-Yahya.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -117,7 +117,7 @@ title: Labs
         <button class="btn" onclick="window.open('../resources/Lab1-ZackHendrickson.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="../resources/Lab1-ZackHendrickson.pdf" width="100%" height="600px"></iframe>
+        <iframe src="../resources/Lab1-ZackHendrickson.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
