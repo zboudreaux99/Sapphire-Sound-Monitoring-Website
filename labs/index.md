@@ -125,10 +125,10 @@ title: Labs
     <div class="lab-container" id="lab1-zach-container">
       <div class="lab-title">
         <h2>Lab 1 – Zach Boudreaux</h2>
-        <button class="btn" onclick="window.open('./labs/Lab1-ZachBoudreaux.pdf', '_blank')"> Open in new tab </button>
+        <button class="btn" onclick="window.open('labs/Lab1-ZachBoudreaux.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
-        <iframe src="./labs/Lab1-ZachBoudreaux.pdf" width="100%" height="100%"></iframe>
+        <iframe src="labs/Lab1-ZachBoudreaux.pdf" width="100%" height="100%"></iframe>
       </div>
     </div>
   </div>
