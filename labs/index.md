@@ -50,10 +50,10 @@ title: Labs
 
   <div id="main">
     <!-- Lab 1 - Christiney -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-christiney">
       <div class="lab-title">
         <h2>Lab 1 – Christiney</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-Christiney', '_blank')"></button>
+        <button class="btn" onclick="window.open('../resources/Lab1-Christiney', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-Christiney.pdf" width="100%" height="600px"></iframe>
@@ -61,10 +61,10 @@ title: Labs
     </div>
 
     <!-- Lab 1 - Shawn -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-shawn">
       <div class="lab-title">
         <h2>Lab 1 – Shawn</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-Shawn', '_blank')"></button>
+        <button class="btn" onclick="window.open('../resources/Lab1-Shawn', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-Shawn.pdf" width="100%" height="600px"></iframe>
@@ -72,10 +72,10 @@ title: Labs
     </div>
 
     <!-- Lab 1 - Wes -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-wes">
       <div class="lab-title">
         <h2>Lab 1 – Wes</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-Wes', '_blank')"></button>
+        <button class="btn" onclick="window.open('../resources/Lab1-Wes', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-Wes.pdf" width="100%" height="600px"></iframe>
@@ -83,10 +83,10 @@ title: Labs
     </div>
 
     <!-- Lab 1 - Yahya -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-yahya">
       <div class="lab-title">
         <h2>Lab 1 – Yahya</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-Yahya', '_blank')"></button>
+        <button class="btn" onclick="window.open('../resources/Lab1-Yahya', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-Yahya.pdf" width="100%" height="600px"></iframe>
@@ -94,10 +94,10 @@ title: Labs
     </div>
 
     <!-- Lab 1 - Zack Hendrickson -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-zack">
       <div class="lab-title">
-        <h2>Lab 1 – ZackHendrickson</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-ZackHendrickson', '_blank')"></button>
+        <h2>Lab 1 – Zack Hendrickson</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-ZackHendrickson', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-ZackHendrickson.pdf" width="100%" height="600px"></iframe>
@@ -105,10 +105,10 @@ title: Labs
     </div>
 
     <!-- Lab 1 - Zach Boudreaux -->
-    <div class="lab-container">
+    <div class="lab-container" id="lab1-zach">
       <div class="lab-title">
-        <h2>Lab 1 – ZachBoudreaux</h2>
-        <button class="btn" onclick="window.open('../resources/Lab1-ZachBoudreaux', '_blank')"></button>
+        <h2>Lab 1 – Zach Boudreaux</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-ZachBoudreaux', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/labs/Lab1-ZachBoudreaux.pdf" width="100%" height="600px"></iframe>
