@@ -2,10 +2,10 @@
 title: Home
 ---
 # Elevator Pitch
-### Problem
+### Problem Statement
 Noise complaints are a common issue in shared buildings. These complaints can often lead to disputes, unfair accusations, and unresolved tension between tenants
 
-### Solution
+### Solution Statement
 A software-enabled noise detector that will be paired with a mobile or web app to monitor decibel levels, without recording audio. When noise levels are exceeded for an extended period the system will log the event and generate a report for property managers.
 
 ### Key Features
