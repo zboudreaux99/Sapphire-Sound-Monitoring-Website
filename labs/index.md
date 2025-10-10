@@ -64,7 +64,7 @@ title: Labs
       <li class="lab-selector" id="lab1-zach">Lab 1 – Zach Boudreaux</li>
       <li class="lab-selector" id="lab1-brian">Lab 1 – Brian</li>
       <li class="lab-selector" id="lab1-alisa">Lab 1 – Alisa</li>
-      <li class="lab-selector" id="lab1-Priscilla">Lab 1 – Priscilla</li>
+      <li class="lab-selector" id="lab1-priscilla">Lab 1 – Priscilla</li>
     </ul>
   </div>
 
