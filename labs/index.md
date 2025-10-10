@@ -63,6 +63,8 @@ title: Labs
       <li class="lab-selector" id="lab1-zack">Lab 1 - Zack Hendrickson</li>
       <li class="lab-selector" id="lab1-zach">Lab 1 – Zach Boudreaux</li>
       <li class="lab-selector" id="lab1-brian">Lab 1 – Brian</li>
+      <li class="lab-selector" id="lab1-alisa">Lab 1 – Alisa</li>
+      <li class="lab-selector" id="lab1-Priscilla">Lab 1 – Priscilla</li>
     </ul>
   </div>
 
@@ -143,6 +145,28 @@ title: Labs
         <iframe src="../resources/Lab1-Brian.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
+
+    <!-- Lab 1 - Alisa -->
+    <div class="lab-container" id="lab1-alisa-container">
+      <div class="lab-title">
+        <h2>Lab 1 – Alisa</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-Alisa.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab1-Alisa.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <!-- Lab 1 - Priscilla -->
+    <div class="lab-container" id="lab1-priscilla-container">
+      <div class="lab-title">
+        <h2>Lab 1 – Priscilla</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-Priscilla.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab1-Priscilla.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -178,28 +202,3 @@ title: Labs
   hideLabs();
   showLab('lab1-christiney');
 </script>
-<!-- <script>
-  function hideLabs() {
-    const labs = document.getElementsByClassName("lab-container");
-    for (let lab of labs) {
-      lab.style.display = 'none';
-    }
-  }
-
-  function showLab(labName) {
-    const divId = labName + "-div";
-    const lab = document.getElementById(divId);
-    if (lab) lab.style.display = 'block';
-  }
-
-  document.addEventListener('click', function(event) {
-    if (event.target.classList.contains('lab-selector')) {
-      hideLabs();
-      showLab(event.target.id);
-    }
-  });
-
-  // Default view
-  hideLabs();
-  showLab('lab1');
-</script> -->
