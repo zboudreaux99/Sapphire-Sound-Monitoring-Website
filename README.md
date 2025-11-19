@@ -3,3 +3,6 @@
 
 ### Lab 1
 - [Lab 1 Outline](./resources/Lab_1_Outline.pdf)
+
+### Wiki
+- [Sapphire Sounds Wiki](https://github.com/zboudreaux99/f25-Sapphire-5/wiki)
