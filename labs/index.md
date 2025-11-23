@@ -69,6 +69,16 @@ title: Labs
   </div>
 
   <div id="main">
+    <div class="lab-container" id="lab2-section3-container">
+      <div class="lab-title">
+        <h2>Lab 2 Section 3</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Section3.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Section3.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
     <!-- Lab 1 - Christiney -->
     <div class="lab-container" id="lab1-christiney-container">
       <div class="lab-title">
@@ -77,6 +87,16 @@ title: Labs
       </div>
       <div>
         <iframe src="../resources/Lab1-Christiney.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <div class="lab-container" id="lab2-christiney-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Christiney</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Christiney.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Christiney.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -102,6 +122,16 @@ title: Labs
       </div>
     </div>
 
+    <div class="lab-container" id="lab2-wes-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Wes</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Wes.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Wes.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
     <!-- Lab 1 - Yahya -->
     <div class="lab-container" id="lab1-yahya-container">
       <div class="lab-title">
@@ -110,6 +140,16 @@ title: Labs
       </div>
       <div>
         <iframe src="../resources/Lab1-Yahya.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <div class="lab-container" id="lab2-yahya-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Yahya</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Yahya.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Yahya.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
@@ -124,11 +164,31 @@ title: Labs
       </div>
     </div>
 
+    <div class="lab-container" id="lab2-zack-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Zack Hendrickson</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-ZackHendrickson.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-ZackHendrickson.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
     <!-- Lab 1 - Zach Boudreaux -->
     <div class="lab-container" id="lab1-zach-container">
       <div class="lab-title">
         <h2>Lab 1 – Zach Boudreaux</h2>
         <button class="btn" onclick="window.open('../resources/Lab1-ZachBoudreaux.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab1-ZachBoudreaux.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <div class="lab-container" id="lab2-zach-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Zach Boudreaux</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-ZachBoudreaux.pdf', '_blank')"> Open in new tab </button>
       </div>
       <div>
         <iframe src="../resources/Lab1-ZachBoudreaux.pdf" width="100%" height="1000px"></iframe>
@@ -154,6 +214,16 @@ title: Labs
       </div>
       <div>
         <iframe src="../resources/Lab1-Alisa.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <div class="lab-container" id="lab2-alisa-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Alisa</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Alisa.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Alisa.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
 
