@@ -56,6 +56,7 @@ title: Labs
 <div id="content">
   <div id="side-nav">
     <ul id="nav-list">
+      <li class="lab-selector" id="lab2-section3">Lab 2 Section 3</li>
       <li class="lab-selector" id="lab1-christiney">Lab 1 - Christiney</li>
       <li class="lab-selector" id="lab1-shawn">Lab 1 - Shawn</li>
       <li class="lab-selector" id="lab1-wes">Lab 1 - Wes</li>
@@ -65,6 +66,13 @@ title: Labs
       <li class="lab-selector" id="lab1-brian">Lab 1 – Brian</li>
       <li class="lab-selector" id="lab1-alisa">Lab 1 – Alisa</li>
       <li class="lab-selector" id="lab1-priscilla">Lab 1 – Priscilla</li>
+      <li class="lab-selector" id="lab2-christiney">Lab 2 - Christiney</li>
+      <li class="lab-selector" id="lab2-wes">Lab 2 - Wes</li>
+      <li class="lab-selector" id="lab2-yahya">Lab 2 - Yahya</li>
+      <li class="lab-selector" id="lab2-zack">Lab 2 - Zack Hendrickson</li>
+      <li class="lab-selector" id="lab2-zach">Lab 2 – Zach Boudreaux</li>
+      <li class="lab-selector" id="lab2-brian">Lab 2 – Brian</li>
+      <li class="lab-selector" id="lab2-alisa">Lab 2 – Alisa</li>
     </ul>
   </div>
 
@@ -280,5 +288,5 @@ title: Labs
   });
 
   hideLabs();
-  showLab('lab1-christiney');
+  showLab('lab2-section3');
 </script>
