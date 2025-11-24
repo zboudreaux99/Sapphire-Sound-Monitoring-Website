@@ -206,6 +206,16 @@ title: Labs
       </div>
     </div>
 
+    <div class="lab-container" id="lab2-brian-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Brian</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Brian.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Brian.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
     <!-- Lab 1 - Alisa -->
     <div class="lab-container" id="lab1-alisa-container">
       <div class="lab-title">
