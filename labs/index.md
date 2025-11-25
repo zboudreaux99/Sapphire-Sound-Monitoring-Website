@@ -74,6 +74,7 @@ title: Labs
       <li class="lab-selector" id="lab2-zach">Lab 2 – Zach Boudreaux</li>
       <li class="lab-selector" id="lab2-brian">Lab 2 – Brian</li>
       <li class="lab-selector" id="lab2-alisa">Lab 2 – Alisa</li>
+      <li class="lab-selector" id="lab2-priscilla">Lab 2 – Priscilla</li>
     </ul>
   </div>
 
@@ -264,6 +265,16 @@ title: Labs
       </div>
       <div>
         <iframe src="../resources/Lab1-Priscilla.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
+    <div class="lab-container" id="lab2-priscilla-container">
+      <div class="lab-title">
+        <h2>Lab 2 – Priscilla</h2>
+        <button class="btn" onclick="window.open('../resources/Lab2-Priscilla.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab2-Priscilla.pdf" width="100%" height="1000px"></iframe>
       </div>
     </div>
   </div>
