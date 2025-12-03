@@ -82,6 +82,7 @@ title: Labs
   </div>
 
   <div id="main">
+    <!-- Lab 1 - Outline -->
     <div class="lab-container" id="lab1-outline">
       <div class="lab-title">
         <h2>Lab 1 Outline</h2>
