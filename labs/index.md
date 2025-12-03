@@ -56,29 +56,43 @@ title: Labs
 <div id="content">
   <div id="side-nav">
     <ul id="nav-list">
+      <h3>Lab 1</h3>
+      <li class="lab-selector" id="lab1-christiney">Christiney</li>
+      <li class="lab-selector" id="lab1-shawn">Shawn</li>
+      <li class="lab-selector" id="lab1-wes">Wes</li>
+      <li class="lab-selector" id="lab1-yahya">Yahya</li>
+      <li class="lab-selector" id="lab1-zack">Zack Hendrickson</li>
+      <li class="lab-selector" id="lab1-zach">Zach Boudreaux</li>
+      <li class="lab-selector" id="lab1-brian">Brian</li>
+      <li class="lab-selector" id="lab1-alisa">Alisa</li>
+      <li class="lab-selector" id="lab1-priscilla">Priscilla</li>
+      <li class="lab-selector" id="lab1-outline">Lab 1 Outline</li>
+      <h3>Lab 2</h3>
+      <li class="lab-selector" id="lab2-christiney">Christiney</li>
+      <li class="lab-selector" id="lab2-shawn">Shawn</li>
+      <li class="lab-selector" id="lab2-wes">Wes</li>
+      <li class="lab-selector" id="lab2-yahya">Yahya</li>
+      <li class="lab-selector" id="lab2-zack">Zack Hendrickson</li>
+      <li class="lab-selector" id="lab2-zach">Zach Boudreaux</li>
+      <li class="lab-selector" id="lab2-brian">Brian</li>
+      <li class="lab-selector" id="lab2-alisa">Alisa</li>
+      <li class="lab-selector" id="lab2-priscilla">Priscilla</li>
       <li class="lab-selector" id="lab2-section3">Lab 2 Section 3</li>
-      <li class="lab-selector" id="lab1-christiney">Lab 1 - Christiney</li>
-      <li class="lab-selector" id="lab1-shawn">Lab 1 - Shawn</li>
-      <li class="lab-selector" id="lab1-wes">Lab 1 - Wes</li>
-      <li class="lab-selector" id="lab1-yahya">Lab 1 - Yahya</li>
-      <li class="lab-selector" id="lab1-zack">Lab 1 - Zack Hendrickson</li>
-      <li class="lab-selector" id="lab1-zach">Lab 1 – Zach Boudreaux</li>
-      <li class="lab-selector" id="lab1-brian">Lab 1 – Brian</li>
-      <li class="lab-selector" id="lab1-alisa">Lab 1 – Alisa</li>
-      <li class="lab-selector" id="lab1-priscilla">Lab 1 – Priscilla</li>
-      <li class="lab-selector" id="lab2-christiney">Lab 2 - Christiney</li>
-      <li class="lab-selector" id="lab2-shawn">Lab 2 - Shawn</li>
-      <li class="lab-selector" id="lab2-wes">Lab 2 - Wes</li>
-      <li class="lab-selector" id="lab2-yahya">Lab 2 - Yahya</li>
-      <li class="lab-selector" id="lab2-zack">Lab 2 - Zack Hendrickson</li>
-      <li class="lab-selector" id="lab2-zach">Lab 2 – Zach Boudreaux</li>
-      <li class="lab-selector" id="lab2-brian">Lab 2 – Brian</li>
-      <li class="lab-selector" id="lab2-alisa">Lab 2 – Alisa</li>
-      <li class="lab-selector" id="lab2-priscilla">Lab 2 – Priscilla</li>
     </ul>
   </div>
 
   <div id="main">
+    <!-- Lab 1 - Outline -->
+    <div class="lab-container" id="lab1-outline">
+      <div class="lab-title">
+        <h2>Lab 1 Outline</h2>
+        <button class="btn" onclick="window.open('../resources/Lab1-Outline.pdf', '_blank')"> Open in new tab </button>
+      </div>
+      <div>
+        <iframe src="../resources/Lab1-Outline.pdf" width="100%" height="1000px"></iframe>
+      </div>
+    </div>
+
     <div class="lab-container" id="lab2-section3-container">
       <div class="lab-title">
         <h2>Lab 2 Section 3</h2>
