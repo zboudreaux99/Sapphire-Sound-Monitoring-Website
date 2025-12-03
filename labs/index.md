@@ -83,7 +83,7 @@ title: Labs
 
   <div id="main">
     <!-- Lab 1 - Outline -->
-    <div class="lab-container" id="lab1-outline">
+    <div class="lab-container" id="lab1-outline-container">
       <div class="lab-title">
         <h2>Lab 1 Outline</h2>
         <button class="btn" onclick="window.open('../resources/Lab1-Outline.pdf', '_blank')"> Open in new tab </button>

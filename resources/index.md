@@ -1,7 +1,7 @@
 ---
 title: Resources
 ---
-- [Project Wiki](https://github.com/zboudreaux99/f25-Sapphire-5/wiki)
+- [User Manual](https://github.com/zboudreaux99/f25-Sapphire-5/wiki)
 - [Lab 1 Outline](Lab_1_Outline.pdf){:target="_blank"}
 - [Feasibility Presentation PDF](FeasibilityPresentation.pdf){:target="_blank"}
 - [Design Presentation PDF](DesignPresentation.pdf){:target="_blank"}
